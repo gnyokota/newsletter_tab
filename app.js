@@ -63,5 +63,3 @@ app.post("/failure", function (req, res) {
   res.redirect("/");
 });
 
-//2d04ea173843421194000851f08f529c-us7
-//71780b59f0
